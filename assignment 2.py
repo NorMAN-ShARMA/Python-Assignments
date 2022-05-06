@@ -26,7 +26,8 @@ print(a>>2,b>>4)
 #Question 4
 nam = input("Enter ")
 x = int(nam.find("name"))
-if x>=0:
+e = int(nam.find("Name"))
+if x>=0 or e>=0:
     print("Yes")
 
 else:
