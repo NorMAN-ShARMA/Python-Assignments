@@ -1,4 +1,6 @@
 # Assignment 5
+#Name: Naman Sharma
+#SID: 21107089
 print("Q1")
 string = input("Enter a string(without apostrophes) and it will be reversed:")
 print("Reversed string:", string[::-1])
