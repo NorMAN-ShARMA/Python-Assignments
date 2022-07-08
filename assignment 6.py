@@ -1,6 +1,6 @@
 #Assignment 6
-#Name: Navodit Gupta
-#SID : 21107082
+#Name: Naman Sharma
+#SID : 21107089
 #Branch: Mechanical
 
 print("Q1")
