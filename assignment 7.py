@@ -1,4 +1,7 @@
-
+#Assignment 7
+#Name: Naman Sharma
+#SID: 21107089
+#Branch: Mechanical
 from tkinter import *
   
 # Function for finding GST rate
